@@ -1,11 +1,5 @@
 # Capstone Business Questions
 
-What type of accomodation is most rented - hotel, airbnb, hostel, etc?
+Where is the best area to invest in real estate?
 
-What does the visitor count and satisfaction rate look like per island?
-
-projected length of stay/possible reason for increased length of stay
-
-Projected increase of dailt hotel price
-
-Can I screen shot table 18 for areas of improvement?
+Taking into account area most frequently visited, visitor satisfaction, and availability of housing, I believe the best investment to make would be condominium buildings in Waikiki.  
